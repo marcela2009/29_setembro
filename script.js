@@ -15,7 +15,7 @@ const perguntas = [
         afirmacao: "Quis saber como usar a IA no seu dia a dia."
       }
     ]
-  },
+  }, 
   {
     enunciado: `Uma professora pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?`,
     alternativas: [
